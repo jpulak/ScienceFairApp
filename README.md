@@ -11,6 +11,8 @@ In order to combat these pressing issues, I created an automated water flow syst
 the wastage of water with a sand water filter and also created an app which can keep track of
 how much clean water is being used in a household as it is a valuable commodity in these areas.
 
+https://patents.google.com/patent/US20220135317A1/en?oq=%23US+20220135317A1+
+
 Offical Patented project:
 https://drive.google.com/file/d/13iGSStdFEoe8kw-QJgaScrBt7wk0VjxW/view?usp=sharing
 
